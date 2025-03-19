@@ -13,7 +13,7 @@ document.querySelector("button").addEventListener("click", function() {
                 break;
             case "-":
                 result = num1 - num2;
-                break;
+                break
             case "*":
                 result = num1 * num2;
                 break;
